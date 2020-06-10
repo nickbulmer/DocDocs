@@ -1,2 +1,2 @@
 # DocDocs
-Elixir distributed real-time doctors document recording software 
+Elixir based distributed real-time doctors document recording software 
